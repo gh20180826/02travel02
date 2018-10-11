@@ -1,9 +1,13 @@
-@import "modules/_large-hero";
+.large-hero {
+     position: relative;
+}
+
 
 body {
      font-family: 'Roboto', sans-sarif;
      color: #333;
 }
+
 
 img {
      max-width: 100%;
